@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
-/api_lib_venv
+/library/api_venv
+
 __pycache__/
 *.py[cod]
 *$py.class
